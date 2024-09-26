@@ -746,9 +746,9 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 56px;
+  font-size: 50px;
   color: #fff;
-  font-weight: 700;
+  font-weight: 600;
   opacity: 1;
   visibility: visible;
   line-height: 70px;
@@ -761,7 +761,7 @@ banner
   border-radius: 3px;
   background-color: #fff;
   margin-bottom: 40px;
-  opacity: 1;
+  opacity: 1;  
   visibility: visible;
 }
 
