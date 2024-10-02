@@ -746,7 +746,7 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 50px;
+  font-size: 52.5px;
   color: #fff;
   font-weight: 600;
   opacity: 1;
@@ -1222,9 +1222,9 @@ page heading
 }
 
 .page-heading h2 {
-  font-size: 56px;
+  font-size: 40px;
   color: #fff;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .page-heading .div-dec {
